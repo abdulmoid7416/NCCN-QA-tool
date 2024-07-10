@@ -1,0 +1,6 @@
+gradio
+pinecone-client
+openai
+numpy
+gspread
+oauth2client
